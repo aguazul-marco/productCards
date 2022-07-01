@@ -32,11 +32,7 @@ h2 {
     font-size: 19px;
     padding-top: 10px;
 }
-h4 {
-    font-size: 1vw;
-    padding-bottom: 10px;
-    opacity: 60%;
-}
+
 img {
     max-width: 20vw;
     max-height: 20vh;
@@ -60,9 +56,3 @@ button {
     border: 0;
     border-radius: 15px;
 }
-
-footer {
-    padding-bottom: 10px;
-    text-align: center;
-}
-
